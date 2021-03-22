@@ -3,3 +3,5 @@
 
 3. Added changes through locally without updating the recent remote commit to create conflict.
 
+4. Adding directly from GitHub to create conflict.
+
