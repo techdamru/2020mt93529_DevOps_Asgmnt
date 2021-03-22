@@ -1,3 +1,9 @@
 1. This is the initial version of the file created just after creation of the repo by the user 'techdamru'.
 2. Added more changes after reviewing the specs.
 
+3. Added changes through locally without updating the recent remote commit to create conflict.
+
+4. Added more changes through locally without updating the recent remote commit in develop branch to create conflict.
+
+5. Adding directly from GitHub to create conflict.
+
