@@ -3,5 +3,7 @@
 
 3. Added changes through locally without updating the recent remote commit to create conflict.
 
-
 4. Added more changes through locally without updating the recent remote commit in develop branch to create conflict.
+
+5. Adding directly from GitHub to create conflict.
+
