@@ -4,3 +4,5 @@ Will add this locally to develop branch then push it remotely.
 
 Adding more changes locally and force pushing it to remote repo. Need to undo this step later and make the remote repo to more stable commit state.
 
+Adding line locally.
+
