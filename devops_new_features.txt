@@ -2,3 +2,5 @@ This is a new file added locally. This file is not present in git main branch.
 
 Will add this locally to develop branch then push it remotely.
 
+Adding more changes locally and force pushing it to remote repo. Need to undo this step later and make the remote repo to more stable commit state.
+
