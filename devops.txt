@@ -7,3 +7,7 @@
 
 5. Adding directly from GitHub to create conflict.
 
+6. Adding locally to check effect of force commit.
+
+
+
